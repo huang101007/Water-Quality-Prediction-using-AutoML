@@ -92,6 +92,9 @@ AutoGluon於訓練過程中會自動比較多種模型，包括：
 - Private Score：0.05723
 - Class Ranking：1/47
 
+<img width="620" height="600" alt="image" src="https://github.com/user-attachments/assets/d138544f-6da3-4b19-a39a-4e621ad2b618" />
+
+
 ---
 
 ## 學習收穫
